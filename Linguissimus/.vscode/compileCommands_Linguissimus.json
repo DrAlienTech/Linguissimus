@@ -1,0 +1,37 @@
+[
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\Linguissimus.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\Linguissimus.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\Linguissimus.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\LinguissimusCharacter.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\LinguissimusCharacter.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\LinguissimusGameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Linguissimus\\Linguissimus\\Source\\Linguissimus\\LinguissimusGameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\Linguissimus\\Linguissimus\\.vscode\\compileCommands_Linguissimus\\Linguissimus.211.rsp",
+		"directory": "D:\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
